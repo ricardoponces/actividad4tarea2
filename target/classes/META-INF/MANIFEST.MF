@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Build-Jdk-Spec: 17
-Main-Class: com.kibernumacademy.actividad4.Clase1
+Built-By: sh1r0l0x
+Build-Jdk: 17.0.7
 Created-By: Maven Integration for Eclipse
 
